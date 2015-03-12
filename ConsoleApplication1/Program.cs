@@ -12,6 +12,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Hello World");
             Console.WriteLine("Skolski i marelica");
             Console.WriteLine("a dushaaaaaaaa");
+            Console.WriteLine("Promjena");
             Console.Read();
         }
     }
